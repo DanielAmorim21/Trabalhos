@@ -1,0 +1,8 @@
+Fabricantes de processadores: Intel, AMD, Qualcomm, Samsung, Broadcom, Apple, nvidia, Mediatek, HiSillicon.
+
+1- A LGPD impõe padrões a serem seguidos no que diz respeito ao tratamento de dados no Brasil, de modo a impactar diretamente os Data Centers. Estes deverão passar a de adequar à s normas estabelecidas pela LGPD, graças os mecânimos técnicos e jurídcios por ela estabelecido. A LGPD, para além das novas regras, estabeleceu a ANPD (agência nacional de proteção de dados), que deverá, entre outras coisas, fiscalizar os agentes públicos e privados em sua tratativa de dados pessoais sensíveis.
+
+2- a) Arquivos de formato aberto: PNG, FLAC, WebM, HTML, gzip, CSS. 
+Arquivos de fomato proprietário: CDR, DWG, AD, PSD, RAR, WMA.
+
+b)
